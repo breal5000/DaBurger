@@ -1,0 +1,20 @@
+{
+  "name": "daburger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breal5000/DaBurger.git"
+  },
+  "author": "Brandon Frazier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breal5000/DaBurger/issues"
+  },
+  "homepage": "https://github.com/breal5000/DaBurger#readme"
+}
